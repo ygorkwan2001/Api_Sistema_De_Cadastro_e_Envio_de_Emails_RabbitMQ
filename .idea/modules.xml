@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sistemas de Cadastro e Envio de Email Spring Boot.iml" filepath="$PROJECT_DIR$/.idea/Sistemas de Cadastro e Envio de Email Spring Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-user/demo.iml" filepath="$PROJECT_DIR$/ms-user/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-email/email.iml" filepath="$PROJECT_DIR$/ms-email/email.iml" />
+    </modules>
+  </component>
+</project>
